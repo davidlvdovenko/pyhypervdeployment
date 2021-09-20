@@ -1,0 +1,3 @@
+VM Name,Path,Generation,Memory,Storage,Storage Type,Switch,Boot,Image,AutoStart
+VM1,C:\VMs,1,4GB,25GB,Fixed,NewSwitch,CD,image.iso,TRUE
+VM2,C:\VMs,1,3GB,20GB,Dynamic,NewSwitch,CD,image.iso,FALSE
