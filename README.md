@@ -36,9 +36,8 @@ STORAGE TYPE: ‘Static’, ‘Dynamic’, ‘Differencing’ (This depends on w
 BOOT: ‘IDE’, ‘CD’ (Depends on whether you want to boot from the Virtual HD or an ISO Image)
 IMAGE: Set this to whatever you named your ISO file in the script directory. Make sure to include the ‘.ISO’ in the CSV file.
 AUTOSTART: Set this to TRUE if you would like the VM to boot as soon as it is created. Set to false otherwise.
-04
-Section IV
-Run the Script
+
+## Run the Script
 You are now ready to run the script. Open your terminal with elevated permissions in the directory where the script is located along with all the other files. If you are running the executable, simply run the following command:
 
 .\pyhypervdeployment.exe
